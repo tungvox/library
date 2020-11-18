@@ -1,0 +1,18 @@
+.author-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+  padding: 10px;
+}
+
+.author-page__author-form-container {
+  margin-right: 20px;
+}
+/*# sourceMappingURL=AuthorPage.css.map */

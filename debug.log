@@ -1,0 +1,971 @@
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env.example file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env.example file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env.example file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env.example file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env.example file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env.example file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env.example file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env.example file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env.example file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env.example file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env.example file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"errors":{"duration":{"name":"ValidatorError","message":"Path `duration` is required.","properties":{"message":"Path `duration` is required.","type":"required","path":"duration"},"kind":"required","path":"duration"}},"_message":"Movie validation failed","level":"error","message":"Movie validation failed: duration: Path `duration` is required."}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"errors":{"duration":{"name":"ValidatorError","message":"Path `duration` is required.","properties":{"message":"Path `duration` is required.","type":"required","path":"duration"},"kind":"required","path":"duration"}},"_message":"Movie validation failed","level":"error","message":"Movie validation failed: duration: Path `duration` is required."}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"errors":{"duration":{"name":"ValidatorError","message":"Path `duration` is required.","properties":{"message":"Path `duration` is required.","type":"required","path":"duration"},"kind":"required","path":"duration"}},"_message":"Movie validation failed","level":"error","message":"Movie validation failed: duration: Path `duration` is required."}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"errors":{"publishedDate":{"stringValue":"\"27-02-1997\"","kind":"date","value":"27-02-1997","path":"publishedDate","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="}},"description":{"name":"ValidatorError","message":"Path `description` is required.","properties":{"message":"Path `description` is required.","type":"required","path":"description"},"kind":"required","path":"description"},"publisher":{"name":"ValidatorError","message":"Path `publisher` is required.","properties":{"message":"Path `publisher` is required.","type":"required","path":"publisher"},"kind":"required","path":"publisher"},"status":{"name":"ValidatorError","message":"Path `status` is required.","properties":{"message":"Path `status` is required.","type":"required","path":"status"},"kind":"required","path":"status"}},"_message":"Book validation failed","level":"error","message":"Book validation failed: publishedDate: Cast to date failed for value \"27-02-1997\" at path \"publishedDate\", description: Path `description` is required., publisher: Path `publisher` is required., status: Path `status` is required."}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"errors":{"publishedDate":{"stringValue":"\"27-02-1997\"","kind":"date","value":"27-02-1997","path":"publishedDate","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="}},"description":{"name":"ValidatorError","message":"Path `description` is required.","properties":{"message":"Path `description` is required.","type":"required","path":"description"},"kind":"required","path":"description"},"publisher":{"name":"ValidatorError","message":"Path `publisher` is required.","properties":{"message":"Path `publisher` is required.","type":"required","path":"publisher"},"kind":"required","path":"publisher"},"status":{"name":"ValidatorError","message":"Path `status` is required.","properties":{"message":"Path `status` is required.","type":"required","path":"status"},"kind":"required","path":"status"}},"_message":"Book validation failed","level":"error","message":"Book validation failed: publishedDate: Cast to date failed for value \"27-02-1997\" at path \"publishedDate\", description: Path `description` is required., publisher: Path `publisher` is required., status: Path `status` is required."}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"errors":{"publishedDate":{"stringValue":"\"27-02-1997\"","kind":"date","value":"27-02-1997","path":"publishedDate","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="}},"description":{"name":"ValidatorError","message":"Path `description` is required.","properties":{"message":"Path `description` is required.","type":"required","path":"description"},"kind":"required","path":"description"},"publisher":{"name":"ValidatorError","message":"Path `publisher` is required.","properties":{"message":"Path `publisher` is required.","type":"required","path":"publisher"},"kind":"required","path":"publisher"},"status":{"name":"ValidatorError","message":"Path `status` is required.","properties":{"message":"Path `status` is required.","type":"required","path":"status"},"kind":"required","path":"status"}},"_message":"Book validation failed","level":"error","message":"Book validation failed: publishedDate: Cast to date failed for value \"27-02-1997\" at path \"publishedDate\", description: Path `description` is required., publisher: Path `publisher` is required., status: Path `status` is required."}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"errors":{"publishedDate":{"stringValue":"\"27-02-1997\"","kind":"date","value":"27-02-1997","path":"publishedDate","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="}},"description":{"name":"ValidatorError","message":"Path `description` is required.","properties":{"message":"Path `description` is required.","type":"required","path":"description"},"kind":"required","path":"description"},"publisher":{"name":"ValidatorError","message":"Path `publisher` is required.","properties":{"message":"Path `publisher` is required.","type":"required","path":"publisher"},"kind":"required","path":"publisher"},"status":{"name":"ValidatorError","message":"Path `status` is required.","properties":{"message":"Path `status` is required.","type":"required","path":"status"},"kind":"required","path":"status"}},"_message":"Book validation failed","level":"error","message":"Book validation failed: publishedDate: Cast to date failed for value \"27-02-1997\" at path \"publishedDate\", description: Path `description` is required., publisher: Path `publisher` is required., status: Path `status` is required."}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"errors":{"publishedDate":{"stringValue":"\"27-02-1997\"","kind":"date","value":"27-02-1997","path":"publishedDate","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="}},"description":{"name":"ValidatorError","message":"Path `description` is required.","properties":{"message":"Path `description` is required.","type":"required","path":"description"},"kind":"required","path":"description"},"publisher":{"name":"ValidatorError","message":"Path `publisher` is required.","properties":{"message":"Path `publisher` is required.","type":"required","path":"publisher"},"kind":"required","path":"publisher"},"status":{"name":"ValidatorError","message":"Path `status` is required.","properties":{"message":"Path `status` is required.","type":"required","path":"status"},"kind":"required","path":"status"}},"_message":"Book validation failed","level":"error","message":"Book validation failed: publishedDate: Cast to date failed for value \"27-02-1997\" at path \"publishedDate\", description: Path `description` is required., publisher: Path `publisher` is required., status: Path `status` is required."}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"errors":{"publishedDate":{"stringValue":"\"27-02-1997\"","kind":"date","value":"27-02-1997","path":"publishedDate","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="}},"description":{"name":"ValidatorError","message":"Path `description` is required.","properties":{"message":"Path `description` is required.","type":"required","path":"description"},"kind":"required","path":"description"},"publisher":{"name":"ValidatorError","message":"Path `publisher` is required.","properties":{"message":"Path `publisher` is required.","type":"required","path":"publisher"},"kind":"required","path":"publisher"},"status":{"name":"ValidatorError","message":"Path `status` is required.","properties":{"message":"Path `status` is required.","type":"required","path":"status"},"kind":"required","path":"status"}},"_message":"Book validation failed","level":"error","message":"Book validation failed: publishedDate: Cast to date failed for value \"27-02-1997\" at path \"publishedDate\", description: Path `description` is required., publisher: Path `publisher` is required., status: Path `status` is required."}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"errors":{"publishedDate":{"stringValue":"\"27-02-1997\"","kind":"date","value":"27-02-1997","path":"publishedDate","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="}},"description":{"name":"ValidatorError","message":"Path `description` is required.","properties":{"message":"Path `description` is required.","type":"required","path":"description"},"kind":"required","path":"description"},"publisher":{"name":"ValidatorError","message":"Path `publisher` is required.","properties":{"message":"Path `publisher` is required.","type":"required","path":"publisher"},"kind":"required","path":"publisher"},"status":{"name":"ValidatorError","message":"Path `status` is required.","properties":{"message":"Path `status` is required.","type":"required","path":"status"},"kind":"required","path":"status"}},"_message":"Book validation failed","level":"error","message":"Book validation failed: publishedDate: Cast to date failed for value \"27-02-1997\" at path \"publishedDate\", description: Path `description` is required., publisher: Path `publisher` is required., status: Path `status` is required."}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"errors":{"publishedDate":{"stringValue":"\"27-02-1997\"","kind":"date","value":"27-02-1997","path":"publishedDate","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="}},"description":{"name":"ValidatorError","message":"Path `description` is required.","properties":{"message":"Path `description` is required.","type":"required","path":"description"},"kind":"required","path":"description"},"publisher":{"name":"ValidatorError","message":"Path `publisher` is required.","properties":{"message":"Path `publisher` is required.","type":"required","path":"publisher"},"kind":"required","path":"publisher"},"status":{"name":"ValidatorError","message":"Path `status` is required.","properties":{"message":"Path `status` is required.","type":"required","path":"status"},"kind":"required","path":"status"}},"_message":"Book validation failed","level":"error","message":"Book validation failed: publishedDate: Cast to date failed for value \"27-02-1997\" at path \"publishedDate\", description: Path `description` is required., publisher: Path `publisher` is required., status: Path `status` is required."}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"errors":{"publishedDate":{"stringValue":"\"27-02-1997\"","kind":"date","value":"27-02-1997","path":"publishedDate","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="}},"description":{"name":"ValidatorError","message":"Path `description` is required.","properties":{"message":"Path `description` is required.","type":"required","path":"description"},"kind":"required","path":"description"},"publisher":{"name":"ValidatorError","message":"Path `publisher` is required.","properties":{"message":"Path `publisher` is required.","type":"required","path":"publisher"},"kind":"required","path":"publisher"},"status":{"name":"ValidatorError","message":"Path `status` is required.","properties":{"message":"Path `status` is required.","type":"required","path":"status"},"kind":"required","path":"status"}},"_message":"Book validation failed","level":"error","message":"Book validation failed: publishedDate: Cast to date failed for value \"27-02-1997\" at path \"publishedDate\", description: Path `description` is required., publisher: Path `publisher` is required., status: Path `status` is required."}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"errors":{"publishedDate":{"stringValue":"\"27-02-1997\"","kind":"date","value":"27-02-1997","path":"publishedDate","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="}},"description":{"name":"ValidatorError","message":"Path `description` is required.","properties":{"message":"Path `description` is required.","type":"required","path":"description"},"kind":"required","path":"description"},"publisher":{"name":"ValidatorError","message":"Path `publisher` is required.","properties":{"message":"Path `publisher` is required.","type":"required","path":"publisher"},"kind":"required","path":"publisher"},"status":{"name":"ValidatorError","message":"Path `status` is required.","properties":{"message":"Path `status` is required.","type":"required","path":"status"},"kind":"required","path":"status"}},"_message":"Book validation failed","level":"error","message":"Book validation failed: publishedDate: Cast to date failed for value \"27-02-1997\" at path \"publishedDate\", description: Path `description` is required., publisher: Path `publisher` is required., status: Path `status` is required."}
+{"errors":{"lastName":{"name":"ValidatorError","message":"Path `lastName` is required.","properties":{"message":"Path `lastName` is required.","type":"required","path":"lastName"},"kind":"required","path":"lastName"}},"_message":"Author validation failed","level":"error","message":"Author validation failed: lastName: Path `lastName` is required."}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"errors":{"publishedDate":{"stringValue":"\"27-02-1997\"","kind":"date","value":"27-02-1997","path":"publishedDate","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="}},"description":{"name":"ValidatorError","message":"Path `description` is required.","properties":{"message":"Path `description` is required.","type":"required","path":"description"},"kind":"required","path":"description"},"publisher":{"name":"ValidatorError","message":"Path `publisher` is required.","properties":{"message":"Path `publisher` is required.","type":"required","path":"publisher"},"kind":"required","path":"publisher"},"status":{"name":"ValidatorError","message":"Path `status` is required.","properties":{"message":"Path `status` is required.","type":"required","path":"status"},"kind":"required","path":"status"}},"_message":"Book validation failed","level":"error","message":"Book validation failed: publishedDate: Cast to date failed for value \"27-02-1997\" at path \"publishedDate\", description: Path `description` is required., publisher: Path `publisher` is required., status: Path `status` is required."}
+{"errors":{"lastName":{"name":"ValidatorError","message":"Path `lastName` is required.","properties":{"message":"Path `lastName` is required.","type":"required","path":"lastName"},"kind":"required","path":"lastName"}},"_message":"Author validation failed","level":"error","message":"Author validation failed: lastName: Path `lastName` is required."}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"errors":{"publishedDate":{"stringValue":"\"27-02-1997\"","kind":"date","value":"27-02-1997","path":"publishedDate","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="}},"description":{"name":"ValidatorError","message":"Path `description` is required.","properties":{"message":"Path `description` is required.","type":"required","path":"description"},"kind":"required","path":"description"},"publisher":{"name":"ValidatorError","message":"Path `publisher` is required.","properties":{"message":"Path `publisher` is required.","type":"required","path":"publisher"},"kind":"required","path":"publisher"},"status":{"name":"ValidatorError","message":"Path `status` is required.","properties":{"message":"Path `status` is required.","type":"required","path":"status"},"kind":"required","path":"status"}},"_message":"Book validation failed","level":"error","message":"Book validation failed: publishedDate: Cast to date failed for value \"27-02-1997\" at path \"publishedDate\", description: Path `description` is required., publisher: Path `publisher` is required., status: Path `status` is required."}
+{"errors":{"lastName":{"name":"ValidatorError","message":"Path `lastName` is required.","properties":{"message":"Path `lastName` is required.","type":"required","path":"lastName"},"kind":"required","path":"lastName"}},"_message":"Author validation failed","level":"error","message":"Author validation failed: lastName: Path `lastName` is required."}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"errors":{"publishedDate":{"stringValue":"\"27-02-1997\"","kind":"date","value":"27-02-1997","path":"publishedDate","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="}},"description":{"name":"ValidatorError","message":"Path `description` is required.","properties":{"message":"Path `description` is required.","type":"required","path":"description"},"kind":"required","path":"description"},"publisher":{"name":"ValidatorError","message":"Path `publisher` is required.","properties":{"message":"Path `publisher` is required.","type":"required","path":"publisher"},"kind":"required","path":"publisher"},"status":{"name":"ValidatorError","message":"Path `status` is required.","properties":{"message":"Path `status` is required.","type":"required","path":"status"},"kind":"required","path":"status"}},"_message":"Book validation failed","level":"error","message":"Book validation failed: publishedDate: Cast to date failed for value \"27-02-1997\" at path \"publishedDate\", description: Path `description` is required., publisher: Path `publisher` is required., status: Path `status` is required."}
+{"errors":{"lastName":{"name":"ValidatorError","message":"Path `lastName` is required.","properties":{"message":"Path `lastName` is required.","type":"required","path":"lastName"},"kind":"required","path":"lastName"}},"_message":"Author validation failed","level":"error","message":"Author validation failed: lastName: Path `lastName` is required."}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"errors":{"publishedDate":{"stringValue":"\"27-02-1997\"","kind":"date","value":"27-02-1997","path":"publishedDate","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="}},"description":{"name":"ValidatorError","message":"Path `description` is required.","properties":{"message":"Path `description` is required.","type":"required","path":"description"},"kind":"required","path":"description"},"publisher":{"name":"ValidatorError","message":"Path `publisher` is required.","properties":{"message":"Path `publisher` is required.","type":"required","path":"publisher"},"kind":"required","path":"publisher"},"status":{"name":"ValidatorError","message":"Path `status` is required.","properties":{"message":"Path `status` is required.","type":"required","path":"status"},"kind":"required","path":"status"}},"_message":"Book validation failed","level":"error","message":"Book validation failed: publishedDate: Cast to date failed for value \"27-02-1997\" at path \"publishedDate\", description: Path `description` is required., publisher: Path `publisher` is required., status: Path `status` is required."}
+{"errors":{"lastName":{"name":"ValidatorError","message":"Path `lastName` is required.","properties":{"message":"Path `lastName` is required.","type":"required","path":"lastName"},"kind":"required","path":"lastName"}},"_message":"Author validation failed","level":"error","message":"Author validation failed: lastName: Path `lastName` is required."}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"errors":{"publishedDate":{"stringValue":"\"27-02-1997\"","kind":"date","value":"27-02-1997","path":"publishedDate","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="}},"description":{"name":"ValidatorError","message":"Path `description` is required.","properties":{"message":"Path `description` is required.","type":"required","path":"description"},"kind":"required","path":"description"},"publisher":{"name":"ValidatorError","message":"Path `publisher` is required.","properties":{"message":"Path `publisher` is required.","type":"required","path":"publisher"},"kind":"required","path":"publisher"},"status":{"name":"ValidatorError","message":"Path `status` is required.","properties":{"message":"Path `status` is required.","type":"required","path":"status"},"kind":"required","path":"status"}},"_message":"Book validation failed","level":"error","message":"Book validation failed: publishedDate: Cast to date failed for value \"27-02-1997\" at path \"publishedDate\", description: Path `description` is required., publisher: Path `publisher` is required., status: Path `status` is required."}
+{"errors":{"lastName":{"name":"ValidatorError","message":"Path `lastName` is required.","properties":{"message":"Path `lastName` is required.","type":"required","path":"lastName"},"kind":"required","path":"lastName"}},"_message":"Author validation failed","level":"error","message":"Author validation failed: lastName: Path `lastName` is required."}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"errors":{"lastName":{"name":"ValidatorError","message":"Path `lastName` is required.","properties":{"message":"Path `lastName` is required.","type":"required","path":"lastName"},"kind":"required","path":"lastName"}},"_message":"Author validation failed","level":"error","message":"Author validation failed: lastName: Path `lastName` is required."}
+{"errors":{"publishedDate":{"stringValue":"\"27-02-1997\"","kind":"date","value":"27-02-1997","path":"publishedDate","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="}},"description":{"name":"ValidatorError","message":"Path `description` is required.","properties":{"message":"Path `description` is required.","type":"required","path":"description"},"kind":"required","path":"description"},"publisher":{"name":"ValidatorError","message":"Path `publisher` is required.","properties":{"message":"Path `publisher` is required.","type":"required","path":"publisher"},"kind":"required","path":"publisher"},"status":{"name":"ValidatorError","message":"Path `status` is required.","properties":{"message":"Path `status` is required.","type":"required","path":"status"},"kind":"required","path":"status"}},"_message":"Book validation failed","level":"error","message":"Book validation failed: publishedDate: Cast to date failed for value \"27-02-1997\" at path \"publishedDate\", description: Path `description` is required., publisher: Path `publisher` is required., status: Path `status` is required."}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"errors":{"lastName":{"name":"ValidatorError","message":"Path `lastName` is required.","properties":{"message":"Path `lastName` is required.","type":"required","path":"lastName"},"kind":"required","path":"lastName"}},"_message":"Author validation failed","level":"error","message":"Author validation failed: lastName: Path `lastName` is required."}
+{"errors":{"publishedDate":{"stringValue":"\"27-02-1997\"","kind":"date","value":"27-02-1997","path":"publishedDate","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="}},"description":{"name":"ValidatorError","message":"Path `description` is required.","properties":{"message":"Path `description` is required.","type":"required","path":"description"},"kind":"required","path":"description"},"publisher":{"name":"ValidatorError","message":"Path `publisher` is required.","properties":{"message":"Path `publisher` is required.","type":"required","path":"publisher"},"kind":"required","path":"publisher"},"status":{"name":"ValidatorError","message":"Path `status` is required.","properties":{"message":"Path `status` is required.","type":"required","path":"status"},"kind":"required","path":"status"}},"_message":"Book validation failed","level":"error","message":"Book validation failed: publishedDate: Cast to date failed for value \"27-02-1997\" at path \"publishedDate\", description: Path `description` is required., publisher: Path `publisher` is required., status: Path `status` is required."}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"errors":{"lastName":{"name":"ValidatorError","message":"Path `lastName` is required.","properties":{"message":"Path `lastName` is required.","type":"required","path":"lastName"},"kind":"required","path":"lastName"}},"_message":"Author validation failed","level":"error","message":"Author validation failed: lastName: Path `lastName` is required."}
+{"errors":{"publishedDate":{"stringValue":"\"27-02-1997\"","kind":"date","value":"27-02-1997","path":"publishedDate","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="}},"description":{"name":"ValidatorError","message":"Path `description` is required.","properties":{"message":"Path `description` is required.","type":"required","path":"description"},"kind":"required","path":"description"},"publisher":{"name":"ValidatorError","message":"Path `publisher` is required.","properties":{"message":"Path `publisher` is required.","type":"required","path":"publisher"},"kind":"required","path":"publisher"},"status":{"name":"ValidatorError","message":"Path `status` is required.","properties":{"message":"Path `status` is required.","type":"required","path":"status"},"kind":"required","path":"status"}},"_message":"Book validation failed","level":"error","message":"Book validation failed: publishedDate: Cast to date failed for value \"27-02-1997\" at path \"publishedDate\", description: Path `description` is required., publisher: Path `publisher` is required., status: Path `status` is required."}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"errors":{"lastName":{"name":"ValidatorError","message":"Path `lastName` is required.","properties":{"message":"Path `lastName` is required.","type":"required","path":"lastName"},"kind":"required","path":"lastName"}},"_message":"Author validation failed","level":"error","message":"Author validation failed: lastName: Path `lastName` is required."}
+{"errors":{"publishedDate":{"stringValue":"\"27-02-1997\"","kind":"date","value":"27-02-1997","path":"publishedDate","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="}},"description":{"name":"ValidatorError","message":"Path `description` is required.","properties":{"message":"Path `description` is required.","type":"required","path":"description"},"kind":"required","path":"description"},"publisher":{"name":"ValidatorError","message":"Path `publisher` is required.","properties":{"message":"Path `publisher` is required.","type":"required","path":"publisher"},"kind":"required","path":"publisher"},"status":{"name":"ValidatorError","message":"Path `status` is required.","properties":{"message":"Path `status` is required.","type":"required","path":"status"},"kind":"required","path":"status"}},"_message":"Book validation failed","level":"error","message":"Book validation failed: publishedDate: Cast to date failed for value \"27-02-1997\" at path \"publishedDate\", description: Path `description` is required., publisher: Path `publisher` is required., status: Path `status` is required."}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"errors":{"lastName":{"name":"ValidatorError","message":"Path `lastName` is required.","properties":{"message":"Path `lastName` is required.","type":"required","path":"lastName"},"kind":"required","path":"lastName"}},"_message":"Author validation failed","level":"error","message":"Author validation failed: lastName: Path `lastName` is required."}
+{"errors":{"publishedDate":{"stringValue":"\"27-02-1997\"","kind":"date","value":"27-02-1997","path":"publishedDate","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="}},"description":{"name":"ValidatorError","message":"Path `description` is required.","properties":{"message":"Path `description` is required.","type":"required","path":"description"},"kind":"required","path":"description"},"publisher":{"name":"ValidatorError","message":"Path `publisher` is required.","properties":{"message":"Path `publisher` is required.","type":"required","path":"publisher"},"kind":"required","path":"publisher"},"status":{"name":"ValidatorError","message":"Path `status` is required.","properties":{"message":"Path `status` is required.","type":"required","path":"status"},"kind":"required","path":"status"}},"_message":"Book validation failed","level":"error","message":"Book validation failed: publishedDate: Cast to date failed for value \"27-02-1997\" at path \"publishedDate\", description: Path `description` is required., publisher: Path `publisher` is required., status: Path `status` is required."}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"errors":{"lastName":{"name":"ValidatorError","message":"Path `lastName` is required.","properties":{"message":"Path `lastName` is required.","type":"required","path":"lastName"},"kind":"required","path":"lastName"}},"_message":"Author validation failed","level":"error","message":"Author validation failed: lastName: Path `lastName` is required."}
+{"errors":{"publishedDate":{"stringValue":"\"27-02-1997\"","kind":"date","value":"27-02-1997","path":"publishedDate","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="}},"description":{"name":"ValidatorError","message":"Path `description` is required.","properties":{"message":"Path `description` is required.","type":"required","path":"description"},"kind":"required","path":"description"},"publisher":{"name":"ValidatorError","message":"Path `publisher` is required.","properties":{"message":"Path `publisher` is required.","type":"required","path":"publisher"},"kind":"required","path":"publisher"},"status":{"name":"ValidatorError","message":"Path `status` is required.","properties":{"message":"Path `status` is required.","type":"required","path":"status"},"kind":"required","path":"status"}},"_message":"Book validation failed","level":"error","message":"Book validation failed: publishedDate: Cast to date failed for value \"27-02-1997\" at path \"publishedDate\", description: Path `description` is required., publisher: Path `publisher` is required., status: Path `status` is required."}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"errors":{"lastName":{"name":"ValidatorError","message":"Path `lastName` is required.","properties":{"message":"Path `lastName` is required.","type":"required","path":"lastName"},"kind":"required","path":"lastName"}},"_message":"Author validation failed","level":"error","message":"Author validation failed: lastName: Path `lastName` is required."}
+{"errors":{"publishedDate":{"stringValue":"\"27-02-1997\"","kind":"date","value":"27-02-1997","path":"publishedDate","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="}},"description":{"name":"ValidatorError","message":"Path `description` is required.","properties":{"message":"Path `description` is required.","type":"required","path":"description"},"kind":"required","path":"description"},"publisher":{"name":"ValidatorError","message":"Path `publisher` is required.","properties":{"message":"Path `publisher` is required.","type":"required","path":"publisher"},"kind":"required","path":"publisher"},"status":{"name":"ValidatorError","message":"Path `status` is required.","properties":{"message":"Path `status` is required.","type":"required","path":"status"},"kind":"required","path":"status"}},"_message":"Book validation failed","level":"error","message":"Book validation failed: publishedDate: Cast to date failed for value \"27-02-1997\" at path \"publishedDate\", description: Path `description` is required., publisher: Path `publisher` is required., status: Path `status` is required."}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"errors":{"publishedDate":{"stringValue":"\"27-02-1997\"","kind":"date","value":"27-02-1997","path":"publishedDate","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="}},"description":{"name":"ValidatorError","message":"Path `description` is required.","properties":{"message":"Path `description` is required.","type":"required","path":"description"},"kind":"required","path":"description"},"publisher":{"name":"ValidatorError","message":"Path `publisher` is required.","properties":{"message":"Path `publisher` is required.","type":"required","path":"publisher"},"kind":"required","path":"publisher"},"status":{"name":"ValidatorError","message":"Path `status` is required.","properties":{"message":"Path `status` is required.","type":"required","path":"status"},"kind":"required","path":"status"}},"_message":"Book validation failed","level":"error","message":"Book validation failed: publishedDate: Cast to date failed for value \"27-02-1997\" at path \"publishedDate\", description: Path `description` is required., publisher: Path `publisher` is required., status: Path `status` is required."}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"errors":{"publishedDate":{"stringValue":"\"27-02-1997\"","kind":"date","value":"27-02-1997","path":"publishedDate","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="}},"description":{"name":"ValidatorError","message":"Path `description` is required.","properties":{"message":"Path `description` is required.","type":"required","path":"description"},"kind":"required","path":"description"},"publisher":{"name":"ValidatorError","message":"Path `publisher` is required.","properties":{"message":"Path `publisher` is required.","type":"required","path":"publisher"},"kind":"required","path":"publisher"},"status":{"name":"ValidatorError","message":"Path `status` is required.","properties":{"message":"Path `status` is required.","type":"required","path":"status"},"kind":"required","path":"status"}},"_message":"Book validation failed","level":"error","message":"Book validation failed: publishedDate: Cast to date failed for value \"27-02-1997\" at path \"publishedDate\", description: Path `description` is required., publisher: Path `publisher` is required., status: Path `status` is required."}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"errors":{"publishedDate":{"stringValue":"\"27-02-1997\"","kind":"date","value":"27-02-1997","path":"publishedDate","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="}},"description":{"name":"ValidatorError","message":"Path `description` is required.","properties":{"message":"Path `description` is required.","type":"required","path":"description"},"kind":"required","path":"description"},"publisher":{"name":"ValidatorError","message":"Path `publisher` is required.","properties":{"message":"Path `publisher` is required.","type":"required","path":"publisher"},"kind":"required","path":"publisher"},"status":{"name":"ValidatorError","message":"Path `status` is required.","properties":{"message":"Path `status` is required.","type":"required","path":"status"},"kind":"required","path":"status"}},"_message":"Book validation failed","level":"error","message":"Book validation failed: publishedDate: Cast to date failed for value \"27-02-1997\" at path \"publishedDate\", description: Path `description` is required., publisher: Path `publisher` is required., status: Path `status` is required."}
+{"errors":{"lastName":{"name":"ValidatorError","message":"Path `lastName` is required.","properties":{"message":"Path `lastName` is required.","type":"required","path":"lastName"},"kind":"required","path":"lastName"}},"_message":"Author validation failed","level":"error","message":"Author validation failed: lastName: Path `lastName` is required."}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"errors":{"publishedDate":{"stringValue":"\"27-02-1997\"","kind":"date","value":"27-02-1997","path":"publishedDate","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="}},"description":{"name":"ValidatorError","message":"Path `description` is required.","properties":{"message":"Path `description` is required.","type":"required","path":"description"},"kind":"required","path":"description"},"publisher":{"name":"ValidatorError","message":"Path `publisher` is required.","properties":{"message":"Path `publisher` is required.","type":"required","path":"publisher"},"kind":"required","path":"publisher"},"status":{"name":"ValidatorError","message":"Path `status` is required.","properties":{"message":"Path `status` is required.","type":"required","path":"status"},"kind":"required","path":"status"}},"_message":"Book validation failed","level":"error","message":"Book validation failed: publishedDate: Cast to date failed for value \"27-02-1997\" at path \"publishedDate\", description: Path `description` is required., publisher: Path `publisher` is required., status: Path `status` is required."}
+{"errors":{"lastName":{"name":"ValidatorError","message":"Path `lastName` is required.","properties":{"message":"Path `lastName` is required.","type":"required","path":"lastName"},"kind":"required","path":"lastName"}},"_message":"Author validation failed","level":"error","message":"Author validation failed: lastName: Path `lastName` is required."}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"errors":{"publishedDate":{"stringValue":"\"27-02-1997\"","kind":"date","value":"27-02-1997","path":"publishedDate","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="}},"description":{"name":"ValidatorError","message":"Path `description` is required.","properties":{"message":"Path `description` is required.","type":"required","path":"description"},"kind":"required","path":"description"},"publisher":{"name":"ValidatorError","message":"Path `publisher` is required.","properties":{"message":"Path `publisher` is required.","type":"required","path":"publisher"},"kind":"required","path":"publisher"},"status":{"name":"ValidatorError","message":"Path `status` is required.","properties":{"message":"Path `status` is required.","type":"required","path":"status"},"kind":"required","path":"status"}},"_message":"Book validation failed","level":"error","message":"Book validation failed: publishedDate: Cast to date failed for value \"27-02-1997\" at path \"publishedDate\", description: Path `description` is required., publisher: Path `publisher` is required., status: Path `status` is required."}
+{"errors":{"lastName":{"name":"ValidatorError","message":"Path `lastName` is required.","properties":{"message":"Path `lastName` is required.","type":"required","path":"lastName"},"kind":"required","path":"lastName"}},"_message":"Author validation failed","level":"error","message":"Author validation failed: lastName: Path `lastName` is required."}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"errors":{"publishedDate":{"stringValue":"\"27-02-1997\"","kind":"date","value":"27-02-1997","path":"publishedDate","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="}},"description":{"name":"ValidatorError","message":"Path `description` is required.","properties":{"message":"Path `description` is required.","type":"required","path":"description"},"kind":"required","path":"description"},"publisher":{"name":"ValidatorError","message":"Path `publisher` is required.","properties":{"message":"Path `publisher` is required.","type":"required","path":"publisher"},"kind":"required","path":"publisher"},"status":{"name":"ValidatorError","message":"Path `status` is required.","properties":{"message":"Path `status` is required.","type":"required","path":"status"},"kind":"required","path":"status"}},"_message":"Book validation failed","level":"error","message":"Book validation failed: publishedDate: Cast to date failed for value \"27-02-1997\" at path \"publishedDate\", description: Path `description` is required., publisher: Path `publisher` is required., status: Path `status` is required."}
+{"errors":{"lastName":{"name":"ValidatorError","message":"Path `lastName` is required.","properties":{"message":"Path `lastName` is required.","type":"required","path":"lastName"},"kind":"required","path":"lastName"}},"_message":"Author validation failed","level":"error","message":"Author validation failed: lastName: Path `lastName` is required."}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"errors":{"publishedDate":{"stringValue":"\"27-02-1997\"","kind":"date","value":"27-02-1997","path":"publishedDate","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="}},"description":{"name":"ValidatorError","message":"Path `description` is required.","properties":{"message":"Path `description` is required.","type":"required","path":"description"},"kind":"required","path":"description"},"publisher":{"name":"ValidatorError","message":"Path `publisher` is required.","properties":{"message":"Path `publisher` is required.","type":"required","path":"publisher"},"kind":"required","path":"publisher"},"status":{"name":"ValidatorError","message":"Path `status` is required.","properties":{"message":"Path `status` is required.","type":"required","path":"status"},"kind":"required","path":"status"}},"_message":"Book validation failed","level":"error","message":"Book validation failed: publishedDate: Cast to date failed for value \"27-02-1997\" at path \"publishedDate\", description: Path `description` is required., publisher: Path `publisher` is required., status: Path `status` is required."}
+{"errors":{"lastName":{"name":"ValidatorError","message":"Path `lastName` is required.","properties":{"message":"Path `lastName` is required.","type":"required","path":"lastName"},"kind":"required","path":"lastName"}},"_message":"Author validation failed","level":"error","message":"Author validation failed: lastName: Path `lastName` is required."}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"errors":{"publishedDate":{"stringValue":"\"27-02-1997\"","kind":"date","value":"27-02-1997","path":"publishedDate","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="}},"description":{"name":"ValidatorError","message":"Path `description` is required.","properties":{"message":"Path `description` is required.","type":"required","path":"description"},"kind":"required","path":"description"},"publisher":{"name":"ValidatorError","message":"Path `publisher` is required.","properties":{"message":"Path `publisher` is required.","type":"required","path":"publisher"},"kind":"required","path":"publisher"},"status":{"name":"ValidatorError","message":"Path `status` is required.","properties":{"message":"Path `status` is required.","type":"required","path":"status"},"kind":"required","path":"status"}},"_message":"Book validation failed","level":"error","message":"Book validation failed: publishedDate: Cast to date failed for value \"27-02-1997\" at path \"publishedDate\", description: Path `description` is required., publisher: Path `publisher` is required., status: Path `status` is required."}
+{"errors":{"lastName":{"name":"ValidatorError","message":"Path `lastName` is required.","properties":{"message":"Path `lastName` is required.","type":"required","path":"lastName"},"kind":"required","path":"lastName"}},"_message":"Author validation failed","level":"error","message":"Author validation failed: lastName: Path `lastName` is required."}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"errors":{"publishedDate":{"stringValue":"\"27-02-1997\"","kind":"date","value":"27-02-1997","path":"publishedDate","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="}},"description":{"name":"ValidatorError","message":"Path `description` is required.","properties":{"message":"Path `description` is required.","type":"required","path":"description"},"kind":"required","path":"description"},"publisher":{"name":"ValidatorError","message":"Path `publisher` is required.","properties":{"message":"Path `publisher` is required.","type":"required","path":"publisher"},"kind":"required","path":"publisher"},"status":{"name":"ValidatorError","message":"Path `status` is required.","properties":{"message":"Path `status` is required.","type":"required","path":"status"},"kind":"required","path":"status"}},"_message":"Book validation failed","level":"error","message":"Book validation failed: publishedDate: Cast to date failed for value \"27-02-1997\" at path \"publishedDate\", description: Path `description` is required., publisher: Path `publisher` is required., status: Path `status` is required."}
+{"errors":{"lastName":{"name":"ValidatorError","message":"Path `lastName` is required.","properties":{"message":"Path `lastName` is required.","type":"required","path":"lastName"},"kind":"required","path":"lastName"}},"_message":"Author validation failed","level":"error","message":"Author validation failed: lastName: Path `lastName` is required."}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"errors":{"publishedDate":{"stringValue":"\"27-02-1997\"","kind":"date","value":"27-02-1997","path":"publishedDate","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="}},"description":{"name":"ValidatorError","message":"Path `description` is required.","properties":{"message":"Path `description` is required.","type":"required","path":"description"},"kind":"required","path":"description"},"publisher":{"name":"ValidatorError","message":"Path `publisher` is required.","properties":{"message":"Path `publisher` is required.","type":"required","path":"publisher"},"kind":"required","path":"publisher"},"status":{"name":"ValidatorError","message":"Path `status` is required.","properties":{"message":"Path `status` is required.","type":"required","path":"status"},"kind":"required","path":"status"}},"_message":"Book validation failed","level":"error","message":"Book validation failed: publishedDate: Cast to date failed for value \"27-02-1997\" at path \"publishedDate\", description: Path `description` is required., publisher: Path `publisher` is required., status: Path `status` is required."}
+{"errors":{"lastName":{"name":"ValidatorError","message":"Path `lastName` is required.","properties":{"message":"Path `lastName` is required.","type":"required","path":"lastName"},"kind":"required","path":"lastName"}},"_message":"Author validation failed","level":"error","message":"Author validation failed: lastName: Path `lastName` is required."}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"errors":{"lastName":{"name":"ValidatorError","message":"Path `lastName` is required.","properties":{"message":"Path `lastName` is required.","type":"required","path":"lastName"},"kind":"required","path":"lastName"},"email":{"name":"ValidatorError","message":"Path `email` is required.","properties":{"message":"Path `email` is required.","type":"required","path":"email"},"kind":"required","path":"email"}},"_message":"Author validation failed","level":"error","message":"Author validation failed: lastName: Path `lastName` is required., email: Path `email` is required."}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"errors":{"lastName":{"name":"ValidatorError","message":"Path `lastName` is required.","properties":{"message":"Path `lastName` is required.","type":"required","path":"lastName"},"kind":"required","path":"lastName"},"email":{"name":"ValidatorError","message":"Path `email` is required.","properties":{"message":"Path `email` is required.","type":"required","path":"email"},"kind":"required","path":"email"}},"_message":"Author validation failed","level":"error","message":"Author validation failed: lastName: Path `lastName` is required., email: Path `email` is required."}
+{"errors":{"lastName":{"name":"ValidatorError","message":"Path `lastName` is required.","properties":{"message":"Path `lastName` is required.","type":"required","path":"lastName"},"kind":"required","path":"lastName"},"email":{"name":"ValidatorError","message":"Path `email` is required.","properties":{"message":"Path `email` is required.","type":"required","path":"email"},"kind":"required","path":"email"}},"_message":"Author validation failed","level":"error","message":"Author validation failed: lastName: Path `lastName` is required., email: Path `email` is required."}
+{"errors":{"lastName":{"name":"ValidatorError","message":"Path `lastName` is required.","properties":{"message":"Path `lastName` is required.","type":"required","path":"lastName"},"kind":"required","path":"lastName"},"email":{"name":"ValidatorError","message":"Path `email` is required.","properties":{"message":"Path `email` is required.","type":"required","path":"email"},"kind":"required","path":"email"}},"_message":"Author validation failed","level":"error","message":"Author validation failed: lastName: Path `lastName` is required., email: Path `email` is required."}
+{"errors":{"lastName":{"name":"ValidatorError","message":"Path `lastName` is required.","properties":{"message":"Path `lastName` is required.","type":"required","path":"lastName"},"kind":"required","path":"lastName"},"email":{"name":"ValidatorError","message":"Path `email` is required.","properties":{"message":"Path `email` is required.","type":"required","path":"email"},"kind":"required","path":"email"}},"_message":"Author validation failed","level":"error","message":"Author validation failed: lastName: Path `lastName` is required., email: Path `email` is required."}
+{"errors":{"lastName":{"name":"ValidatorError","message":"Path `lastName` is required.","properties":{"message":"Path `lastName` is required.","type":"required","path":"lastName"},"kind":"required","path":"lastName"},"email":{"name":"ValidatorError","message":"Path `email` is required.","properties":{"message":"Path `email` is required.","type":"required","path":"email"},"kind":"required","path":"email"}},"_message":"Author validation failed","level":"error","message":"Author validation failed: lastName: Path `lastName` is required., email: Path `email` is required."}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"errors":{"lastName":{"name":"ValidatorError","message":"Path `lastName` is required.","properties":{"message":"Path `lastName` is required.","type":"required","path":"lastName"},"kind":"required","path":"lastName"},"email":{"name":"ValidatorError","message":"Path `email` is required.","properties":{"message":"Path `email` is required.","type":"required","path":"email"},"kind":"required","path":"email"}},"_message":"Author validation failed","level":"error","message":"Author validation failed: lastName: Path `lastName` is required., email: Path `email` is required."}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"errors":{"lastName":{"name":"ValidatorError","message":"Path `lastName` is required.","properties":{"message":"Path `lastName` is required.","type":"required","path":"lastName"},"kind":"required","path":"lastName"},"email":{"name":"ValidatorError","message":"Path `email` is required.","properties":{"message":"Path `email` is required.","type":"required","path":"email"},"kind":"required","path":"email"}},"_message":"Author validation failed","level":"error","message":"Author validation failed: lastName: Path `lastName` is required., email: Path `email` is required."}
+{"errors":{"lastName":{"name":"ValidatorError","message":"Path `lastName` is required.","properties":{"message":"Path `lastName` is required.","type":"required","path":"lastName"},"kind":"required","path":"lastName"},"email":{"name":"ValidatorError","message":"Path `email` is required.","properties":{"message":"Path `email` is required.","type":"required","path":"email"},"kind":"required","path":"email"}},"_message":"Author validation failed","level":"error","message":"Author validation failed: lastName: Path `lastName` is required., email: Path `email` is required."}
+{"errors":{"lastName":{"name":"ValidatorError","message":"Path `lastName` is required.","properties":{"message":"Path `lastName` is required.","type":"required","path":"lastName"},"kind":"required","path":"lastName"},"email":{"name":"ValidatorError","message":"Path `email` is required.","properties":{"message":"Path `email` is required.","type":"required","path":"email"},"kind":"required","path":"email"}},"_message":"Author validation failed","level":"error","message":"Author validation failed: lastName: Path `lastName` is required., email: Path `email` is required."}
+{"errors":{"lastName":{"name":"ValidatorError","message":"Path `lastName` is required.","properties":{"message":"Path `lastName` is required.","type":"required","path":"lastName"},"kind":"required","path":"lastName"},"email":{"name":"ValidatorError","message":"Path `email` is required.","properties":{"message":"Path `email` is required.","type":"required","path":"email"},"kind":"required","path":"email"}},"_message":"Author validation failed","level":"error","message":"Author validation failed: lastName: Path `lastName` is required., email: Path `email` is required."}
+{"errors":{"lastName":{"name":"ValidatorError","message":"Path `lastName` is required.","properties":{"message":"Path `lastName` is required.","type":"required","path":"lastName"},"kind":"required","path":"lastName"},"email":{"name":"ValidatorError","message":"Path `email` is required.","properties":{"message":"Path `email` is required.","type":"required","path":"email"},"kind":"required","path":"email"}},"_message":"Author validation failed","level":"error","message":"Author validation failed: lastName: Path `lastName` is required., email: Path `email` is required."}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"errors":{"lastName":{"name":"ValidatorError","message":"Path `lastName` is required.","properties":{"message":"Path `lastName` is required.","type":"required","path":"lastName"},"kind":"required","path":"lastName"},"email":{"name":"ValidatorError","message":"Path `email` is required.","properties":{"message":"Path `email` is required.","type":"required","path":"email"},"kind":"required","path":"email"}},"_message":"Author validation failed","level":"error","message":"Author validation failed: lastName: Path `lastName` is required., email: Path `email` is required."}
+{"errors":{"lastName":{"name":"ValidatorError","message":"Path `lastName` is required.","properties":{"message":"Path `lastName` is required.","type":"required","path":"lastName"},"kind":"required","path":"lastName"},"email":{"name":"ValidatorError","message":"Path `email` is required.","properties":{"message":"Path `email` is required.","type":"required","path":"email"},"kind":"required","path":"email"}},"_message":"Author validation failed","level":"error","message":"Author validation failed: lastName: Path `lastName` is required., email: Path `email` is required."}
+{"errors":{"lastName":{"name":"ValidatorError","message":"Path `lastName` is required.","properties":{"message":"Path `lastName` is required.","type":"required","path":"lastName"},"kind":"required","path":"lastName"},"email":{"name":"ValidatorError","message":"Path `email` is required.","properties":{"message":"Path `email` is required.","type":"required","path":"email"},"kind":"required","path":"email"}},"_message":"Author validation failed","level":"error","message":"Author validation failed: lastName: Path `lastName` is required., email: Path `email` is required."}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"stringValue":"\"undefined\"","kind":"ObjectId","value":"undefined","path":"_id","reason":{},"level":"error"}
+{"stringValue":"\"undefined\"","kind":"ObjectId","value":"undefined","path":"_id","reason":{},"level":"error"}
+{"stringValue":"\"undefined\"","kind":"ObjectId","value":"undefined","path":"_id","reason":{},"level":"error"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"errors":{"lastName":{"name":"ValidatorError","message":"Path `lastName` is required.","properties":{"message":"Path `lastName` is required.","type":"required","path":"lastName"},"kind":"required","path":"lastName"},"email":{"name":"ValidatorError","message":"Path `email` is required.","properties":{"message":"Path `email` is required.","type":"required","path":"email"},"kind":"required","path":"email"}},"_message":"Author validation failed","level":"error","message":"Author validation failed: lastName: Path `lastName` is required., email: Path `email` is required."}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}
+{"message":"Logging initialized at debug level","level":"debug"}
+{"message":"Using .env file to supply config environment variables","level":"debug"}

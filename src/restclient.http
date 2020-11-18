@@ -1,0 +1,40 @@
+POST http://localhost:3000/api/v1/auth/login HTTP/1.1
+content-type: application/json
+
+# {
+#   "firstName" : "Tom",
+#   "lastName" : "Cruise",
+#   "email" : "tom.cruise@gmail.com"
+# }
+
+# {
+#   "ISBN": 114,
+#   "title": "How we met",
+#   "description": "This is a love story",
+#   "publisher": "Kray",
+#   "authors": ["5f91bcb3a4cb547b85441504", "5f928351be52da928a3fdedc"],
+#   "status": "Available",
+#   "borrowerID": 1,
+#   "publishedDate": "04-20-1997",
+#   "borrowDate": "04-10-2020",
+#   "returnDate": "09-10-2020"
+# }
+
+# {
+#   "firstName" : "Tung",
+#   "lastName" : "Vo",
+#   "email" : "tungvosgt@gmail.com",
+#   "password": "123456",
+#   "isAdmin": true
+# }
+
+{
+  "email" : "tungvosgt@gmail.com",
+  "password": "123456"
+}
+
+
+
+
+
+

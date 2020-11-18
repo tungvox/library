@@ -1,0 +1,15 @@
+th {
+  background-color: black;
+  color: white;
+  position: sticky;
+  z-index: 2;
+  top: 0;
+  border-top: none !important;
+}
+
+table {
+  table-layout: fixed;
+  border-collapse: collapse;
+  overflow: auto;
+  overflow-y: scroll;
+}

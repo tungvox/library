@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,EAAE,CAAC;EACD,gBAAgB,EAAE,KAAK;EACvB,KAAK,EAAE,KAAK;EACZ,QAAQ,EAAE,MAAM;EAChB,OAAO,EAAE,CAAC;EACV,GAAG,EAAE,CAAC;EACN,UAAU,EAAE,eAAe;CAC5B;;AAED,AAAA,KAAK,CAAC;EACJ,YAAY,EAAE,KAAK;EACnB,eAAe,EAAE,QAAQ;EACzB,QAAQ,EAAE,IAAI;EACd,UAAU,EAAE,MAAM;CACnB",
+    "sources": [
+        "AuthorList.scss"
+    ],
+    "names": [],
+    "file": "AuthorList.css"
+}
