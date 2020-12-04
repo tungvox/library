@@ -14,7 +14,10 @@ const router = express.Router()
 router.post('/register', async (req, res) => {
   //Validate data before making user
   const { error } = registerValidation(req.body)
-  if (error) return res.status(400).send(error?.details[0].message)
+  if (error) {
+    console.log(registerValidation(req.body))
+    return res.status(400).send(error)
+  }
 
   //Check if user exist
   const emailExist = await User.findOne({ email: req.body.email })
@@ -33,9 +36,10 @@ router.post('/register', async (req, res) => {
   })
   try {
     const savedUser = await user.save()
-    res.send({ user: user._id })
+    res.send({ user: savedUser._id })
   } catch (error) {
     res.status(400).send(error)
+    console.log(error)
   }
 })
 
@@ -47,11 +51,11 @@ router.post('/login', async (req, res) => {
 
   //Check if email exist
   const user = await User.findOne({ email: req.body.email })
-  if (!user) return res.status(400).send("Email or password is not valid!")
+  if (!user) return res.status(400).send('Email or password is not valid!')
 
   //Check if password is correct
   const validPass = await bcrypt.compare(req.body.password, user.password)
-  if (!validPass) return res.status(400).send("Email or password is not valid!")
+  if (!validPass) return res.status(400).send('Email or password is not valid!')
 
   //Create and assign a token
   const token = jwt.sign({_id : user._id}, JWT_SECRET, {expiresIn: '30m'})
@@ -59,6 +63,25 @@ router.post('/login', async (req, res) => {
   
 })
 
+// LOG OUT
+router.post('/login', async (req, res) => {
+  //Validate data when login
+  const { error } = loginValidation(req.body)
+  if (error) return res.status(400).send(error?.details[0].message)
+
+  //Check if email exist
+  const user = await User.findOne({ email: req.body.email })
+  if (!user) return res.status(400).send('Email or password is not valid!')
+
+  //Check if password is correct
+  const validPass = await bcrypt.compare(req.body.password, user.password)
+  if (!validPass) return res.status(400).send('Email or password is not valid!')
+
+  //Create and assign a token
+  const token = jwt.sign({_id : user._id}, JWT_SECRET, {expiresIn: '30m'})
+  res.header('auth-token', token).send(token)
+  
+})
 
 export default router
 

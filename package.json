@@ -27,6 +27,7 @@
   "dependencies": {
     "@hapi/joi": "^17.1.1",
     "@types/bcryptjs": "^2.4.2",
+    "@types/cookie-parser": "^1.4.2",
     "@types/hapi__joi": "^17.1.6",
     "@types/jsonwebtoken": "^8.3.7",
     "@types/lodash.throttle": "^4.1.6",
@@ -40,6 +41,7 @@
     "bootstrap": "^4.5.3",
     "compression": "^1.7.4",
     "connect-mongo": "^3.2.0",
+    "cookie-parser": "^1.4.5",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
     "errorhandler": "^1.5.1",

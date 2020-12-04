@@ -24,8 +24,10 @@ const router = express_1.default.Router();
 router.post('/register', (req, res) => __awaiter(void 0, void 0, void 0, function* () {
     //Validate data before making user
     const { error } = validation_1.registerValidation(req.body);
-    if (error)
-        return res.status(400).send(error === null || error === void 0 ? void 0 : error.details[0].message);
+    if (error) {
+        console.log(validation_1.registerValidation(req.body));
+        return res.status(400).send(error);
+    }
     //Check if user exist
     const emailExist = yield User_1.default.findOne({ email: req.body.email });
     if (emailExist)
@@ -43,10 +45,11 @@ router.post('/register', (req, res) => __awaiter(void 0, void 0, void 0, functio
     });
     try {
         const savedUser = yield user.save();
-        res.send({ user: user._id });
+        res.send({ user: savedUser._id });
     }
     catch (error) {
         res.status(400).send(error);
+        console.log(error);
     }
 }));
 // LOGIN
@@ -58,11 +61,29 @@ router.post('/login', (req, res) => __awaiter(void 0, void 0, void 0, function* 
     //Check if email exist
     const user = yield User_1.default.findOne({ email: req.body.email });
     if (!user)
-        return res.status(400).send("Email or password is not valid!");
+        return res.status(400).send('Email or password is not valid!');
     //Check if password is correct
     const validPass = yield bcryptjs_1.default.compare(req.body.password, user.password);
     if (!validPass)
-        return res.status(400).send("Email or password is not valid!");
+        return res.status(400).send('Email or password is not valid!');
+    //Create and assign a token
+    const token = jsonwebtoken_1.default.sign({ _id: user._id }, secrets_1.JWT_SECRET, { expiresIn: '30m' });
+    res.header('auth-token', token).send(token);
+}));
+// LOG OUT
+router.post('/login', (req, res) => __awaiter(void 0, void 0, void 0, function* () {
+    //Validate data when login
+    const { error } = validation_1.loginValidation(req.body);
+    if (error)
+        return res.status(400).send(error === null || error === void 0 ? void 0 : error.details[0].message);
+    //Check if email exist
+    const user = yield User_1.default.findOne({ email: req.body.email });
+    if (!user)
+        return res.status(400).send('Email or password is not valid!');
+    //Check if password is correct
+    const validPass = yield bcryptjs_1.default.compare(req.body.password, user.password);
+    if (!validPass)
+        return res.status(400).send('Email or password is not valid!');
     //Create and assign a token
     const token = jsonwebtoken_1.default.sign({ _id: user._id }, secrets_1.JWT_SECRET, { expiresIn: '30m' });
     res.header('auth-token', token).send(token);

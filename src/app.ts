@@ -10,6 +10,7 @@ import mongoose from 'mongoose'
 import passport from 'passport'
 import bluebird from 'bluebird'
 import cors from 'cors'
+import cookieParser from 'cookie-parser'
 
 import { MONGODB_URI, SESSION_SECRET } from './util/secrets'
 
@@ -53,6 +54,7 @@ app.use(bodyParser.urlencoded({ extended: true }))
 app.use(lusca.xframe('SAMEORIGIN'))
 app.use(lusca.xssProtection(true))
 app.use(cors())
+app.use(cookieParser())
 
 // Use movie router
 // app.use('/api/v1/movies', movieRouter)

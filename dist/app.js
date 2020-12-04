@@ -10,6 +10,7 @@ const lusca_1 = __importDefault(require("lusca"));
 const mongoose_1 = __importDefault(require("mongoose"));
 const bluebird_1 = __importDefault(require("bluebird"));
 const cors_1 = __importDefault(require("cors"));
+const cookie_parser_1 = __importDefault(require("cookie-parser"));
 const secrets_1 = require("./util/secrets");
 const user_1 = __importDefault(require("./routers/user"));
 const book_1 = __importDefault(require("./routers/book"));
@@ -42,6 +43,7 @@ app.use(body_parser_1.default.urlencoded({ extended: true }));
 app.use(lusca_1.default.xframe('SAMEORIGIN'));
 app.use(lusca_1.default.xssProtection(true));
 app.use(cors_1.default());
+app.use(cookie_parser_1.default());
 // Use movie router
 // app.use('/api/v1/movies', movieRouter)
 // User book router

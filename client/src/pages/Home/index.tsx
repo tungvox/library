@@ -37,6 +37,7 @@ const Home = () => {
       {
         filtered.map((book)=>{
           return <BookCard 
+                   key={book._id}
                    book = {book}
                  />
         })
