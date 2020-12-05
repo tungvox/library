@@ -65,23 +65,14 @@ const LoginModal = () => {
     }).then(function (res) {
       console.log(res)
       if (res.status === 400) {
-        // console.log(sessionStorage.getItem("message"))
-        console.log(res)
+        //Do something
       } else {
         console.log('Registered successful!')
         setSecondOpen(false)
       }
     }).catch(function (error) {
-        console.log(error.response.data.details[0].message)
+        console.log(error.response.data)
       });
-
-      // axios({
-      //   method: 'post',
-      //   url: url,
-      //   data: data
-      // }).then(function (res) {
-      //   console.log(res)
-      // })
 
     setLastName('')
     setFirstName('')

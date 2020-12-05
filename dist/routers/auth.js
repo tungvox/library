@@ -26,7 +26,7 @@ router.post('/register', (req, res) => __awaiter(void 0, void 0, void 0, functio
     const { error } = validation_1.registerValidation(req.body);
     if (error) {
         console.log(validation_1.registerValidation(req.body));
-        return res.status(400).send(error);
+        return res.status(400).send(error.details[0].message);
     }
     //Check if user exist
     const emailExist = yield User_1.default.findOne({ email: req.body.email });
