@@ -11,7 +11,7 @@ const router = express_1.default.Router();
 router.get('/', book_1.findAll);
 router.get('/:bookId', book_1.findById);
 router.put('/:bookId', auth_1.default, book_1.updateBook);
-router.delete('/:bookId', book_1.deleteBook);
-router.post('/', book_1.createBook);
+router.delete('/:bookId', auth_1.default, book_1.deleteBook);
+router.post('/', auth_1.default, book_1.createBook);
 exports.default = router;
 //# sourceMappingURL=book.js.map

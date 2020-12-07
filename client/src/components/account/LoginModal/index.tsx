@@ -2,6 +2,7 @@ import React from 'react'
 import { Button, Checkbox, Form, Header, Image, Modal } from 'semantic-ui-react'
 import 'semantic-ui-css/semantic.min.css'
 import axios from 'axios'
+import { useForm } from "react-hook-form";
 
 import './LoginModal.scss'
 
@@ -17,8 +18,10 @@ const LoginModal = () => {
   const [registerPassword, setRegisterPassword] = React.useState('')
   const [logStatus, setLogStatus] = React.useState(false)
   const [logButton, setLogButton] = React.useState(<Button>{logStatus ? 'Logout' : 'Login'}</Button>)
+  const [message, setMessage] = React.useState(null)
+  const { register, handleSubmit, watch, errors } = useForm();
 
-  const handleSubmit = () => {
+  const handleSignIn = () => {
     console.log('submit')
     const url = "http://localhost:3000/api/v1/auth/login"
     const data = {
@@ -58,27 +61,29 @@ const LoginModal = () => {
       "isAdmin": false
     }
 
-    axios({
-      method: 'post',
-      url: url,
-      data: data
-    }).then(function (res) {
-      console.log(res)
-      if (res.status === 400) {
-        //Do something
-      } else {
-        console.log('Registered successful!')
-        setSecondOpen(false)
-      }
-    }).catch(function (error) {
+    let response: any = null
+
+    axios.post(url, data)
+      .then(function (res) {
+        console.log(res.data)
+        if (res.status === 400) {
+          // Do something
+        } else {
+          console.log('Registered successful!')
+          setSecondOpen(false)
+        }
+      })
+      .catch(async function (error) {
         console.log(error.response.data)
+        setMessage(error.response.data)
+        console.log(message)
       });
 
     setLastName('')
     setFirstName('')
     setRegisterEmail('')
     setRegisterPassword('')
-    
+
   }
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
@@ -150,7 +155,7 @@ const LoginModal = () => {
             </Button>
             <Button
               content="Submit"
-              onClick={() => handleSubmit()}
+              onClick={() => handleSignIn()}
               positive
             />
             <Button onClick={() => setSecondOpen(true)} primary>
@@ -169,7 +174,18 @@ const LoginModal = () => {
           <Form className="modal-container__wrapper__input">
             <Form.Field>
               <label>First name</label>
-              <input onChange={handleChangeSignUp} name="first-name" value={firstName} placeholder='First name' />
+              <input onChange={handleChangeSignUp} name="first-name" value={firstName} placeholder='First name' 
+              ref={
+                register({
+                  required: true,
+                  maxLength: 255,
+                  minLength: 1,
+                  pattern: /^[A-Za-z]+$/i
+                })
+              } />
+              {errors.firstName && errors.firstName.type === "required" && (
+                <p>This field is required</p>
+              )}
             </Form.Field>
             <Form.Field>
               <label>Last name</label>
@@ -189,7 +205,7 @@ const LoginModal = () => {
           <Button
             icon='check'
             content='All Done'
-            onClick={() => handleSignUp()}
+            onClick={handleSubmit(handleSignUp)}
           />
         </Modal.Actions>
       </Modal>

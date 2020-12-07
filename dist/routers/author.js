@@ -12,6 +12,6 @@ router.get('/', author_1.findAll);
 router.get('/:authorId', author_1.findById);
 router.put('/:authorId', auth_1.default, author_1.updateAuthor);
 router.delete('/:authorId', auth_1.default, author_1.deleteAuthor);
-router.post('/', author_1.createAuthor);
+router.post('/', auth_1.default, author_1.createAuthor);
 exports.default = router;
 //# sourceMappingURL=author.js.map
